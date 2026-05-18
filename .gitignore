@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.vercel/
+bot/node_modules/
+dashboard/node_modules/
+.env
+.env.local
+.env.production
+*.log
